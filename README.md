@@ -19,6 +19,6 @@ sudo chmod 777 EasyCyber
 ```
 
 ```md
-sudo ./EasyCyber
+./EasyCyber
 ````
 ![alt text](img/image1.png)
