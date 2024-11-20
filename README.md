@@ -1,4 +1,4 @@
-![=)](img/=).gif)
+![=)](img/logo.gif)
 # install & Run
 ```md
 sudo git clone https://github.com/Ahmed0or1/EasyCyber.git
