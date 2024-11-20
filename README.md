@@ -21,4 +21,9 @@ sudo chmod 777 EasyCyber
 ```md
 ./EasyCyber
 ````
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# Run
+```md
+cd EasyCyber & ./EasyCyber
+````
 ![alt text](img/image1.png)
