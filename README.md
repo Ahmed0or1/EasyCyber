@@ -1,4 +1,4 @@
-![=)](img/logo.gif)
+![logo](img/logo.gif)
 # install & Run
 ```md
 sudo git clone https://github.com/Ahmed0or1/EasyCyber.git
@@ -14,4 +14,4 @@ sudo chmod 777 EasyCyber
 ```md
 ./EasyCyber
 ````
-![](img/image1.png)
+![image1](img/image1.png)
