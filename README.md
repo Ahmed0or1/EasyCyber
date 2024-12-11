@@ -5,18 +5,12 @@
 # install & Run
 ```md
 sudo git clone https://github.com/Ahmed0or1/EasyCyber.git
-```
-```md
 cd EasyCyber
-```
-
-```md
 sudo chmod 777 EasyCyber
-```
-
-```md
 ./EasyCyber
 ````
-
-
+#  Run
+```md
+cd EasyCyber ; ./EasyCyber
+````
 ![image1](img/image1.png)
